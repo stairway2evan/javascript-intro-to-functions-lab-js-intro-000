@@ -4,8 +4,7 @@ function shout(string) {
 
 function whisper(string) {
   return string.toLowerCase()
-}
-
+// 
 // JavaScript Intro to Functions Lab
 ---
 
@@ -149,4 +148,4 @@ We can simply check whether the string is the same when we convert it to upperca
 
 Good luck! When you're finished, be sure to run `learn submit`!
 
-<p class='util--hide'>View <a href='https://learn.co/lessons/javascript-intro-to-functions-lab'>Intro to Functions Lab</a> on Learn.co and start learning to code for free.</p>
+<p class='util--hide'>View <a href='https://learn.co/lessons/javascript-intro-to-functions-lab'>Intro to Functions Lab</a> on Learn.co and start learning to code for free.</p>}
