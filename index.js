@@ -7,7 +7,6 @@ function whisper(string) {
 }
   
 /*
-// 
 // JavaScript Intro to Functions Lab
 ---
 
