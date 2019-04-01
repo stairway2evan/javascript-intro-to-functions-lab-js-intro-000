@@ -12,7 +12,7 @@ function logWhisper(string){
   
 /*
 // JavaScript Intro to Functions Lab
----
+---l
 
 ## Objectives
 
