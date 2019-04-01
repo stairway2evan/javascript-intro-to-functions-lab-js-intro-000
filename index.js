@@ -13,6 +13,10 @@ function logWhisper(string){
 function logShout(string){
   return console.log(string.toUpperCase())
 }
+
+function sayHiToGrandma(string){
+  return 
+}
   
 /*
 // JavaScript Intro to Functions Lab
