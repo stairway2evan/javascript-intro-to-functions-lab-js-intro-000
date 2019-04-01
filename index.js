@@ -4,6 +4,9 @@ function shout(string) {
 
 function whisper(string) {
   return string.toLowerCase()
+}
+  
+/*
 // 
 // JavaScript Intro to Functions Lab
 ---
